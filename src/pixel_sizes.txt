@@ -1,0 +1,4 @@
+App size: w = 900, h = 600
+Block sizes: 60 x 60, egymas melle, vagy egymas ala, akkor ezzekel a szamokkal kell zsonglorkodni
+
+starting pont bal felso sarok : 250, 90 <- ez alapjan a tobbit is
